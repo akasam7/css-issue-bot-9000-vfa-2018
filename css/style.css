@@ -1,19 +1,16 @@
 body {
   background: pink;
-  font-family:Arial;
 }
 
 h1 {
   color: blue;
   font-size: 3em; 
-  font-family: arial;
 }
 
 h2 {
   color: green;
   font-weight: normal;
   font-style: italic;
-  font-family: Arial;
 }
 
 .completed {
